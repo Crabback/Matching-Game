@@ -1,4 +1,4 @@
-# -Matching-Game
+# Matching-Game
 
 This assignment involves developing a graphical application that represents a simple matching
 game with cards. Our game is a one player memory game in which 12 cards are initially laid
